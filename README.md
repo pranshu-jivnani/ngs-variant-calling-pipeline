@@ -8,7 +8,7 @@
 
 ## 📌 Project Overview
 
-An automated bioinformatics pipeline for NGS data processing — from raw SAM files through to filtered VCF variant calls. Built and executed on Linux (Ubuntu 24.04) using industry-standard tools SAMtools and BCFtools.
+An automated bioinformatics pipeline for NGS data processing from raw SAM files through to filtered VCF variant calls. Built and executed on Linux (Ubuntu 24.04) using industry-standard tools SAMtools and BCFtools.
 
 ---
 
